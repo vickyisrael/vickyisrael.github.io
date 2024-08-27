@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+}
+
+.navbar .navbar-logo {
+  margin: 0;
+}
+
+.navbar .navbar-menu {
+  margin-left: auto;
+}
+
+.navbar .navbar-menu a {
+  text-transform: uppercase;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #222;
+}
+
+.portfolio-menu .portfolio-item {
+  text-align: center;
+}
